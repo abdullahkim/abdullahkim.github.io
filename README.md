@@ -1,5 +1,5 @@
 Title: Sidcode`s Space
-CSS: myStyle.css
+CSS: style.css
 
 ![sidcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahkim&theme=dark&show_icons=true) 
 
